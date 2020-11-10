@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
     }
     public void BMI_compute(View v){
 
-        EditText height = (EditText)findViewById(R.id.editV1);
-        EditText weight = (EditText)findViewById(R.id.editV2);
+        EditText height = (EditText)findViewById(R.id.input_height);
+        EditText weight = (EditText)findViewById(R.id.input_weight);
 
         Intent intent = new Intent(this, SecondActivity.class);
         Bundle bundle = new Bundle();

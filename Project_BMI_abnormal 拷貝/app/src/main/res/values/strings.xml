@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Project_BMI_abnormal</string>
-    <string name="Hw8_height">輸入身高:</string>
-    <string name="Hw8_weight">輸入體重:</string>
-    <string name="Hw8_BMIvalue">你的BMI指數為:</string>
-    <string name="Hw8_result">檢測結果為:</string>
-    <string name="Hw8_BMI_compute">計算BMI</string>
-    <string name="Hw8_back">上一頁</string>
-    <string name="Hw8_title">BMI異常判斷</string>
-    <string name="Hw8_Answer">結果</string>
+    <string name="height">輸入身高(m):</string>
+    <string name="weight">輸入體重(kg):</string>
+    <string name="BMI_value">BMI指數為(kg/m²):</string>
+    <string name="result">檢測結果為:</string>
+    <string name="BMI_count">計算BMI</string>
+    <string name="back">上一頁</string>
+    <string name="title">BMI異常判斷</string>
+    <string name="Answer">結果</string>
 </resources>
